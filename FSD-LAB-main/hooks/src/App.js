@@ -66,7 +66,7 @@ const UserInfoComponent = () => {
   useEffect(() => {
     const fetchUserInfo = async () => {
       setTimeout(() => {
-        setUserInfo({ name: 'Shesank', age: 21 });
+        setUserInfo({ name: 'GOPI', age: 21 });
       }, 1000);
     };
 
